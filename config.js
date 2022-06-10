@@ -4,7 +4,7 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
+global.nameowner = 'Kacay Official'
 global.numberowner = '6281258715448'
 global.instagram = 'https://instagram.com/hyzer_stfu'
 global.github = 'https://github.com/Hyzerr'
@@ -14,7 +14,7 @@ global.gopay = '081258715448'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Kacay-Md'
-global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
+global.gc = 'https://chat.whatsapp.com/HdinO9Dtyur0yPC0LcUQAl'
 global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
