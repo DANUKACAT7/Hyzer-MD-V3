@@ -16,7 +16,7 @@ global.gopay = '081258715448'
 global.namebot = 'Kacay-Md'
 global.gc = 'https://chat.whatsapp.com/HdinO9Dtyur0yPC0LcUQAl'
 global.web = 'https://wa.me/6281258715448' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.price1 = '2 bulan = 10.000\nPerma 20.000\nPerma+Own+40.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
